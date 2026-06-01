@@ -1,0 +1,24 @@
+{
+  "profile": {
+    "name": "Parinitha",
+    "bio": "IIT KGP BTech Student",
+    "avatar": "https://avatars.githubusercontent.com/u/218057671?v=4",
+    "accentColor": "#bc9f10"
+  },
+  "links": [
+    {
+      "id": "1780227670880",
+      "label": "Git hub",
+      "url": "https://github.com/Parinitha616/KodeinKGP_Project",
+      "active": true,
+      "clicks": 6
+    },
+    {
+      "id": "1780227904808",
+      "label": "Linked in",
+      "url": "https://www.linkedin.com/in/parinitha-puligari-8a5558397?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "active": true,
+      "clicks": 3
+    }
+  ]
+}
